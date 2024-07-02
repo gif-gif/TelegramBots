@@ -1,6 +1,13 @@
 # TelegramBots
 Telegram Bot 电报机器人合集详解版
 
+### 参考资料
+
+BotoStore：https://botostore.com/ 一个专门收录telegram bot的国外网站，过滤了垃圾邮件和成人内容的bot
+BotsArchive：https://botsarchive.com/ Telegram机器人档案，不收录成人内容的bottelegram频道：- @BotsArchive
+telegram bot：- @BotsArchiveBot
+Search Telegram Bots：https://botlist.infotelbot.com/ 一个按类型查找电报机器人网站
+
 
 ### Telegram官方bot|机器人
 群组抽奖机器人
@@ -363,9 +370,5 @@ http://teleme.io:TeleMe 是一款功能强大又方便好用的 Telegram 社群�
 - @LimitatiBot:生成私聊机器人
 - @callAdminsBot:给管理员发消息
 - @hexlightning_bot:台灣人自己的黑名單機器人
-### 参考资料
 
-BotoStore：https://botostore.com/ 一个专门收录telegram bot的国外网站，过滤了垃圾邮件和成人内容的bot
-BotsArchive：https://botsarchive.com/ Telegram机器人档案，不收录成人内容的bottelegram频道：- @BotsArchive
-telegram bot：- @BotsArchiveBot
-Search Telegram Bots：https://botlist.infotelbot.com/ 一个按类型查找电报机器人网站
+
